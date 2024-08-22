@@ -6,3 +6,4 @@ a
 multi-line
 comment
 */
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
